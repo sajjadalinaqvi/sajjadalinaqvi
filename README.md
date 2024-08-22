@@ -1,9 +1,25 @@
--  Computer Science Student || AI & Software Development Enthusiast || C++, Java and Python Experience
--  I am deeply passionate about Python and machine learning. My focus is on gaining practical experience and knowledge to propel my capabilities forward. I aspire to become a skilled data scientist. Actively pursuing collaborative opportunities to advance my professional journey in the field and open to discussions on possible collaboration.
--  How to reach me through my email sajjadalinaqvi12@gmail.com
--  Fun fact: Ketchup companies typically do not explicitly state that their product is made from tomatoes.
+Hi, I'm Sajjad 👋
+Welcome to my GitHub profile!
 
-<!---
-sajjadalinaqvi/sajjadalinaqvi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate learner and developer with a strong focus on both Data Science and Native Android Development. My journey so far has been exciting and filled with hands-on experiences in NLP and OpenCV projects, which have greatly enhanced my understanding and skills in these areas.
+
+🚀 Skills & Technologies
+Data Science: Machine Learning, NLP, OpenCV
+Programming Languages: Python, Java, Kotlin, XML
+Android Development: Java for backend, XML for frontend, Android Studio
+Tools & Frameworks: TensorFlow, Scikit-learn, IBM SPSS, Git
+Currently Learning: Native Kotlin for Android Development
+
+🎯 Current Focus
+I'm currently diving deeper into Android Development, sharpening my skills in Java/Kotlin while working on Android Studio projects. My focus is on improving the backend with Java and creating responsive frontends with XML. I plan to transition fully to native Kotlin for more efficient and streamlined development.
+
+📈 Future Goals
+My long-term goal is to integrate my expertise in both Data Science and Android Development. I aspire to create impactful and innovative solutions that leverage the best of both fields.
+
+💻 Projects & Contributions
+NLP & OpenCV Projects: Exploring the intersection of language processing and computer vision.
+Android Development: Building apps with Java/Kotlin, focusing on user experience and efficient code.
+
+🌐 Connect with Me
+LinkedIn: linkedin.com/in/sajjadnaqvi12
+Email: sajjadalinaqvi12@gmail.com

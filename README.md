@@ -10,7 +10,6 @@ Welcome to my GitHub! I'm an AI and voice interface developer with experience in
 - **Purpose:** Helps customers place orders, ask about the menu, and make reservations.
 - **Tech Stack:** Whisper (STT), gTTS (TTS), Flask, Mistral via Groq, LangChain-style architecture
 - **Features:** Conversational memory, local voice I/O, JSON logging, GUI & terminal support
-- **Path:** `Datalytics/VOIP/Restaurant-agent`
 
 ### ✅ 2. Clinic Appointment Assistant
 - **Purpose:** Assists patients with doctor schedules and bookings.

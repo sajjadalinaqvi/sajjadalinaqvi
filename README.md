@@ -1,25 +1,87 @@
-Hi, I'm Sajjad 👋
-Welcome to my GitHub profile!
+# 👋 Hi, I'm Sajjad Naqvi
 
-I'm a passionate learner and developer with a strong focus on both Data Science and Native Android Development. My journey so far has been exciting and filled with hands-on experiences in NLP and OpenCV projects, which have greatly enhanced my understanding and skills in these areas.
+Welcome to my GitHub! I'm an AI and voice interface developer with experience in real-time speech systems, Flask APIs, and cross-platform Flutter apps. I’ve recently built a suite of intelligent voice agents for domains like hospitality, healthcare, blue-collar services, and pet care.
 
-🚀 Skills & Technologies
-Data Science: Machine Learning, NLP, OpenCV
-Programming Languages: Python, Java, Kotlin, XML
-Android Development: Java for backend, XML for frontend, Android Studio
-Tools & Frameworks: TensorFlow, Scikit-learn, IBM SPSS, Git
-Currently Learning: Native Kotlin for Android Development
+---
 
-🎯 Current Focus
-I'm currently diving deeper into Android Development, sharpening my skills in Java/Kotlin while working on Android Studio projects. My focus is on improving the backend with Java and creating responsive frontends with XML. I plan to transition fully to native Kotlin for more efficient and streamlined development.
+## 🔊 Voice Agent Projects
 
-📈 Future Goals
-My long-term goal is to integrate my expertise in both Data Science and Android Development. I aspire to create impactful and innovative solutions that leverage the best of both fields.
+### ✅ 1. Restaurant Voice Assistant
+- **Purpose:** Helps customers place orders, ask about the menu, and make reservations.
+- **Tech Stack:** Whisper (STT), gTTS (TTS), Flask, Mistral via Groq, LangChain-style architecture
+- **Features:** Conversational memory, local voice I/O, JSON logging, GUI & terminal support
+- **Path:** `Datalytics/VOIP/Restaurant-agent`
 
-💻 Projects & Contributions
-NLP & OpenCV Projects: Exploring the intersection of language processing and computer vision.
-Android Development: Building apps with Java/Kotlin, focusing on user experience and efficient code.
+### ✅ 2. Clinic Appointment Assistant
+- **Purpose:** Assists patients with doctor schedules and bookings.
+- **Upgrades:** Gemini API, Pinecone for embeddings, improved conversation context
 
-🌐 Connect with Me
-LinkedIn: linkedin.com/in/sajjadnaqvi12
-Email: sajjadalinaqvi12@gmail.com
+### ✅ 3. Blue-Collar Service Agent – *Gullu*
+- **Purpose:** Assigns plumbers, electricians, and more via VoIP.
+- **VoIP Integration:** FreeSWITCH + Zoiper
+- **Features:** Real-time Whisper STT, interruptible TTS, memory, JSON logging
+
+### ✅ 4. Pet Care Voice Agent – *Alamgir*
+- **Purpose:** Friendly vet appointment assistant
+- **Unique Traits:** Uses slang, local tone, Flask GUI with real-time mic listening
+- **Backend:** Whisper, gTTS (to be upgraded), Ollama (Mistral)
+
+### ✅ 5. Real Estate Voice Agent (Planned)
+- **Purpose:** Guides users in buying/renting homes
+- **Status:** Mock dialogues + Notion template planned
+
+### ✅ 6. Nutritionist Voice Agent (Planned)
+- **Purpose:** Personalized voice diet planner
+- **Status:** Structure drafted, build pending
+
+### ✅ 7. Courier/Delivery Assistant (Planned)
+- **Purpose:** Track parcels, schedule pickups
+- **Features:** Track ID logic, address parsing
+
+### ✅ 8. Consultant Voice Receptionist
+- **Purpose:** Live call receptionist with greeting logic
+- **Current Task:** Finalizing FreeSWITCH barge-in support
+
+---
+
+## 🧠 Shared Features Across Agents
+- **Real-time STT (Whisper)**
+- **Interruptible TTS (chunk-based)**
+- **Session Memory & Logs**
+- **Flask API endpoints per agent**
+- **Voice GUI or CLI-based control**
+- **Conversation history stored in `memory.py`**
+
+---
+
+## 🔧 Core Backend Modules
+- `memory.py`: Handles session memory
+- `agent.py`: Sends queries to LLM (Groq/Ollama/Gemini)
+- `tts.py`: Real-time audio output with interruption
+- `stt.py`: Whisper-based transcription
+- `interrupt.py`: Detects user speech for barge-in
+- `logger.py`: JSON logging with timestamps
+- `run_server.py`: Flask-based main server
+
+---
+
+## 🚧 Upcoming Features / Improvements
+- Switch from gTTS to faster TTS (e.g. Bark, Piper)
+- Live streaming STT (Whisper streaming)
+- Docker-based deployment
+- Centralized Notion-style documentation
+
+---
+
+## 📱 Flutter Projects (Past Highlights)
+- 🔹 **Smart Inventory App** – Scanned and managed product inventory with Firebase
+- 🔹 **Crypto Dashboard** – Real-time prices & chart visualization
+- 🔹 **Voice ChatBot UI** – ChatGPT-based frontend using voice
+- 🔹 **Todo Manager App** – Custom animations, state management (Provider)
+- 🔹 **Portfolio App** – Fully responsive portfolio with project showcase
+
+---
+
+## 📫 Let's Connect!
+Feel free to explore my repositories or reach out to collaborate on AI, voice agents, or Flutter apps.
+

@@ -84,4 +84,5 @@ Welcome to my GitHub! I'm an AI and voice interface developer with experience in
 
 ## 📫 Let's Connect!
 Feel free to explore my repositories or reach out to collaborate on AI, voice agents, or Flutter apps.
+Linkedin: linkedin.com/in/sajjadnaqvi12/
 

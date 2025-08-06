@@ -26,15 +26,15 @@ Welcome to my GitHub! I'm an AI and voice interface developer with experience in
 - **Unique Traits:** Uses slang, local tone, Flask GUI with real-time mic listening
 - **Backend:** Whisper, gTTS (to be upgraded), Ollama (Mistral)
 
-### ✅ 5. Real Estate Voice Agent (Planned)
+### ✅ 5. Real Estate Voice Agent
 - **Purpose:** Guides users in buying/renting homes
 - **Status:** Mock dialogues + Notion template planned
 
-### ✅ 6. Nutritionist Voice Agent (Planned)
+### ✅ 6. Nutritionist Voice Agent
 - **Purpose:** Personalized voice diet planner
 - **Status:** Structure drafted, build pending
 
-### ✅ 7. Courier/Delivery Assistant (Planned)
+### ✅ 7. Courier/Delivery Assistant
 - **Purpose:** Track parcels, schedule pickups
 - **Features:** Track ID logic, address parsing
 
